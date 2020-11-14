@@ -1,0 +1,16 @@
+data required:
+  Product id
+  Product category
+  Product name
+  Product description
+  Product details
+  image url
+  Seller description (name, address and contact number)
+  Location (Google map)
+  Ad posting date
+  Product Price
+  Advertisement Id
+
+two components(pages):
+    Product Type (pass data through props to show all items matching the selected type)
+    Individual Item (pass data through props to show detail of selected item)
